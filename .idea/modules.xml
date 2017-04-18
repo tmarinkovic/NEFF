@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nef.iml" filepath="$PROJECT_DIR$/.idea/modules/Nef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nef_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Nef_main.iml" group="Nef" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nef_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Nef_test.iml" group="Nef" />
+    </modules>
+  </component>
+</project>
