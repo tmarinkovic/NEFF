@@ -1,4 +1,3 @@
-
 <snippet>
   <content><![CDATA[
 # ${1:Neuro Evolutionary Fuzzy Framework}
