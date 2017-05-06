@@ -4,7 +4,7 @@ Neuro Evolutionary Fuzzy Framework is framework for learning and understanding s
 evolutionary algorithms. This is not production ready code, but is focused on basic techniques for better understanding.
 
 ## Preview
-###Fully connected network:
+### Fully connected network:
 
 Problem plot / Loss plot
 
