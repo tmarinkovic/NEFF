@@ -3,6 +3,21 @@
 Neuro Evolutionary Fuzzy Framework is framework for learning and understanding some neural network, fuzzy and
 evolutionary algorithms. This is not production ready code, but is focused on basic techniques for better understanding.
 
+## Preview
+###Fully connected network:
+
+Problem plot / Loss plot
+
+<div>
+  <img style="float:left" src="https://raw.githubusercontent.com/tmarinkovic/NEFF/master/src/resources/plot.png" width="49%"/>
+  <img style="float:right" src="https://raw.githubusercontent.com/tmarinkovic/NEFF/master/src/resources/loss.png" width="49%"/>
+</p>
+<div style="clear:both"></div>
+Console output:
+
+![alt text](https://raw.githubusercontent.com/tmarinkovic/NEFF/master/src/resources/console.png)
+
+
 ## Version
 0.1
 Still in early development.
@@ -26,4 +41,3 @@ run NEFF/src/main/java/Main.java
 ## License
 
 MIT Licence
-
